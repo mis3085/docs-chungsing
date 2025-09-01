@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a2%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d9%85%d8%b5%d9%85%d9%85%d8%a9-%d9%84%d9%84%d8%a3%d8%af%d8%a7%d8%a1&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a2%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d9%85%d8%b5%d9%85%d9%85%d8%a9-%d9%84%d9%84%d8%a3%d8%af%d8%a7%d8%a1&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -77,7 +80,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9-chung-sing-machinery-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9%d9%86%d8%a7-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d9%81%d8%b3%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%af%d8%b9%d9%85&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9-chung-sing-machinery-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9%d9%86%d8%a7-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d9%81%d8%b3%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%af%d8%b9%d9%85&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -96,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-cnc-%d8%a7%d9%84%d8%af%d9%82%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%ab%d9%88%d9%82%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-cnc-%d8%a7%d9%84%d8%af%d9%82%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%ab%d9%88%d9%82%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -115,7 +120,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -134,7 +140,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -153,7 +160,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a%d8%a9-cnc-hb-110b-%d8%b1%d8%a4%d9%89-%d9%81%d9%86%d9%8a%d8%a9-%d9%88%d9%85%d9%8a%d8%b2%d8%a7%d8%aa&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a%d8%a9-cnc-hb-110b-%d8%b1%d8%a4%d9%89-%d9%81%d9%86%d9%8a%d8%a9-%d9%88%d9%85%d9%8a%d8%b2%d8%a7%d8%aa&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -176,7 +184,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -200,7 +209,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -220,7 +230,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -490,7 +501,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a%d8%a9-cnc-%d8%b7%d8%b1%d8%a7%d8%b2-hb-110-20t-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a%d8%a9-cnc-%d8%b7%d8%b1%d8%a7%d8%b2-hb-110-20t-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -515,7 +527,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -541,7 +554,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d8%b9%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d8%b9%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -561,7 +575,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -973,7 +988,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -992,7 +1008,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a%d8%a9-cnc-%d8%b7%d8%b1%d8%a7%d8%b2-hb-800a-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d8%a7%d9%83%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%81%d8%b1%d9%8a%d8%b2-%d8%a7%d9%84%d8%a3%d9%81%d9%82%d9%8a%d8%a9-cnc-%d8%b7%d8%b1%d8%a7%d8%b2-hb-800a-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1013,7 +1030,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1037,7 +1055,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%84%d8%ad%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%84%d8%ad%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1055,7 +1074,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%8a%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1467,7 +1487,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1486,7 +1507,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d9%85%d9%82%d8%af%d9%85%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1505,7 +1527,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d8%b1%d8%ab-%d9%88%d8%a7%d9%84%d8%ae%d8%a8%d8%b1%d8%a9-%d9%81%d9%8a-%d8%a2%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%ad%d9%86-%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d8%b1%d8%ab-%d9%88%d8%a7%d9%84%d8%ae%d8%a8%d8%b1%d8%a9-%d9%81%d9%8a-%d8%a2%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%ad%d9%86-%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d8%a9&#34; aria-label=&#34;رابط&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
